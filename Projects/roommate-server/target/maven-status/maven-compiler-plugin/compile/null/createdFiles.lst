@@ -1,0 +1,6 @@
+com/konuk/yusuf/roommate/resource/UserResource.class
+com/konuk/yusuf/roommate/model/User.class
+com/konuk/yusuf/roommate/service/impl/UserServiceImpl.class
+com/konuk/yusuf/roommate/persistence/dao/UserDao.class
+com/konuk/yusuf/roommate/service/contract/UserService.class
+com/konuk/yusuf/roommate/persistence/jpa/UserJpa.class

@@ -1,0 +1,6 @@
+/Users/yusufemrekonuk/Documents/Projects/roommate-server/src/main/java/com/konuk/yusuf/roommate/model/User.java
+/Users/yusufemrekonuk/Documents/Projects/roommate-server/src/main/java/com/konuk/yusuf/roommate/persistence/dao/UserDao.java
+/Users/yusufemrekonuk/Documents/Projects/roommate-server/src/main/java/com/konuk/yusuf/roommate/persistence/jpa/UserJpa.java
+/Users/yusufemrekonuk/Documents/Projects/roommate-server/src/main/java/com/konuk/yusuf/roommate/resource/UserResource.java
+/Users/yusufemrekonuk/Documents/Projects/roommate-server/src/main/java/com/konuk/yusuf/roommate/service/contract/UserService.java
+/Users/yusufemrekonuk/Documents/Projects/roommate-server/src/main/java/com/konuk/yusuf/roommate/service/impl/UserServiceImpl.java
